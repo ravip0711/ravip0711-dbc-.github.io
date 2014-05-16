@@ -1,0 +1,43 @@
+#header{
+	text-align: center;
+	background-color: turquoise;
+}
+
+body{
+	margin: 0 auto;
+	width: 960px;
+	text-align: center;
+}
+
+.nav{
+	text-align: left;
+	background-color: turquoise;
+	color: grey;
+}
+
+#navbar{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+li{
+	display: inline;
+	padding-right: 40px;
+	padding-left: 40px
+}
+
+.picture{
+	text-align: center;
+}
+
+.context{
+	text-align: center;
+	padding: 100px
+}
+
+#footer{
+	text-align: center;
+	display: inline;
+	background-color: turquoise;
+	padding: 40px;
+}
